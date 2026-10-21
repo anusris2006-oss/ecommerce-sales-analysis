@@ -43,7 +43,9 @@ The project uses an online retail transaction dataset containing information abo
 | Country | Customer's country |
 
 Revenue is calculated using quantity multiplied by unit price, where applicable.
+## 📸 Dashboard Preview
 
+![E-commerce Sales Analysis Dashboard](dashboard.png)
 ## 📊 Dashboard Features
 
 The Power BI dashboard includes the following KPIs and visualizations:
